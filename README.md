@@ -3,6 +3,9 @@
 ## Project Overview
 Smart Summary AI is a text summarization web application built using Python, Streamlit, and Hugging Face Transformers. It converts lengthy articles or text into short, easy-to-understand summaries. Users can choose the summary size according to their needs and download the generated summary as a text file.
 
+## Demo Link
+https://text-summarization-p3bisjsighfgwxyynr4mge.streamlit.app/
+
 ## Objectives
 - To summarize lengthy text automatically.
 - To save time when reading long articles.
